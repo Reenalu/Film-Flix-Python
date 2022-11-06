@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #07020d;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 1%;
+  font-family: "Roboto Mono", monospace;
+  color: #ef6461;
+}
